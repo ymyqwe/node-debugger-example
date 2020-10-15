@@ -1,0 +1,22 @@
+{
+  "name": "node-debugger-example",
+  "version": "1.0.0",
+  "description": "an example for nodejs debug",
+  "main": "index.js",
+  "scripts": {
+    "server": "node --inspect-brk server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyqwe/node-debugger-example.git"
+  },
+  "author": "ymyqwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyqwe/node-debugger-example/issues"
+  },
+  "homepage": "https://github.com/ymyqwe/node-debugger-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
