@@ -4,7 +4,7 @@
   "description": "an example for nodejs debug",
   "main": "index.js",
   "scripts": {
-    "server": "node --inspect-brk server.js",
+    "server": "node --inspect server.js",
     "nodemon": "nodemon --inspect-brk server.js"
   },
   "repository": {
